@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Mihriban Şahin",
+      "photoUrl": "https://pbs.twimg.com/profile_images/1527007156289028096/xs3xTEXm_400x400.jpg",
+      "stories": [
+        {
+          "story_id": 1,
+          "story_pp_url": "https://miro.medium.com/fit/c/176/176/1*av3hTcE2Hf_PqIA2kEzKVg.jpeg"
+        },
+        {
+          "story_id": 2,
+          "story_pp_url": "https://play-lh.googleusercontent.com/Ns048Xac3fJ_HUMJToF3MPR2x544n8AkKxycOXf1EH_8fHmGSZPZey9MiGIBDmxUl7A=w220-rw"
+        },
+        {
+          "story_id": 3,
+          "story_pp_url": "https://i1.sndcdn.com/artworks-6rC5tURgn0gQmd3V-RY4P5A-t500x500.jpg"
+        },
+        {
+          "story_id": 4,
+          "story_pp_url": "https://pbs.twimg.com/media/Eu7oCq2WQAEyVnt.png"
+        },
+        {
+          "story_id": 5,
+          "story_pp_url": "https://events.flutter.dev/engage/assets/img/learn-expert-dash.png"
+        },
+        {
+          "story_id": 6,
+          "story_pp_url": "https://pbs.twimg.com/media/EvgYdVgVgAY0Jg5.jpg"
+        }
+      ],
+      "products": [
+        {
+          "product_id": "1",
+          "product_avatar_photo": "https://pbs.twimg.com/profile_images/1277520494858776577/qfwx1tP8_400x400.jpg",
+          "product_title": "ZARA",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://st.mngbcn.com/rcs/pics/static/T2/fotos/outfit/S20/27062507_09-99999999_01.jpg?ts=1642675903718&imwidth=630&imdensity=2",
+          "product_last_fav_username": "Derya Impsum",
+          "product_fav_count": 88.234
+        },
+        {
+          "product_id": "2",
+          "product_avatar_photo": "https://cdn.iconscout.com/icon/free/png-256/gucci-3215414-2673832.png",
+          "product_title": "GUCCI",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://www.maslakoutlet.com/u/gucci/tisort/gucci-sweatshirt-kadin-2021-disney-x-logo-outlet-beyaz-2.jpg",
+          "product_last_fav_username": "Emirhan Impsum",
+          "product_fav_count": 34.234
+        },
+        {
+          "product_id": "3",
+          "product_avatar_photo": "https://iconape.com/wp-content/png_logo_vector/bershka.png",
+          "product_title": "BERSHKA",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://st.mngbcn.com/rcs/pics/static/T2/fotos/outfit/S20/27062507_09-99999999_01.jpg?ts=1642675903718&imwidth=630&imdensity=2",
+          "product_last_fav_username": "Gülay Impsum",
+          "product_fav_count": 9.097
+        },
+        {
+          "product_id": "4",
+          "product_avatar_photo": "https://pbs.twimg.com/profile_images/1277520494858776577/qfwx1tP8_400x400.jpg",
+          "product_title": "ZARA",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://st.mngbcn.com/rcs/pics/static/T2/fotos/outfit/S20/27062507_09-99999999_01.jpg?ts=1642675903718&imwidth=630&imdensity=2",
+          "product_last_fav_username": "İrem Impsum",
+          "product_fav_count": 1.234
+        },
+        {
+          "product_id": "5",
+          "product_avatar_photo": "https://pbs.twimg.com/profile_images/1277520494858776577/qfwx1tP8_400x400.jpg",
+          "product_title": "ZARA",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://st.mngbcn.com/rcs/pics/static/T2/fotos/outfit/S20/27062507_09-99999999_01.jpg?ts=1642675903718&imwidth=630&imdensity=2",
+          "product_last_fav_username": "Lorem impsum",
+          "product_fav_count": 88.234
+        },
+        {
+          "product_id": "5",
+          "product_avatar_photo": "https://pbs.twimg.com/profile_images/1277520494858776577/qfwx1tP8_400x400.jpg",
+          "product_title": "ZARA",
+          "product_subtitle": "TerraCity, Antalya",
+          "product_distance": "2 km",
+          "product_photo": "https://st.mngbcn.com/rcs/pics/static/T2/fotos/outfit/S20/27062507_09-99999999_01.jpg?ts=1642675903718&imwidth=630&imdensity=2",
+          "product_last_fav_username": "Lorem impsum",
+          "product_fav_count": 88.234
+        }
+      ]
+    }
+  ]
+}

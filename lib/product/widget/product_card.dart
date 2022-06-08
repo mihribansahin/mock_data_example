@@ -26,7 +26,6 @@ class ProductCard extends StatelessWidget {
   Widget build(BuildContext context) {
     double screenHeight = MediaQuery.of(context).size.height;
     double screenWidth = MediaQuery.of(context).size.width;
-    print(screenWidth);
 
     return Container(
       height: screenHeight * .45,

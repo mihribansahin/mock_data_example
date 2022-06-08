@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Mock Data Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.pink,
       ),
       home: const TempPage(),
     );
